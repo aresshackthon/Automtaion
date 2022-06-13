@@ -1,0 +1,7 @@
+Artificial Intelligence,
+Machine Learning, 
+Deep Learning, 
+Power BI,
+Tableau,
+UiPath,
+ServiceNow,
